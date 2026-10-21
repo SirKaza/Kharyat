@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kharyat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4505f85d502896edf658e6055db30302a491060f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kharyat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kharyat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

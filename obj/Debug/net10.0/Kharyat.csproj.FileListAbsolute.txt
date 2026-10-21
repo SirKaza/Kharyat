@@ -95,3 +95,4 @@ E:\Kharyat\obj\Debug\net10.0\refint\Kharyat.dll
 E:\Kharyat\obj\Debug\net10.0\Kharyat.pdb
 E:\Kharyat\obj\Debug\net10.0\Kharyat.genruntimeconfig.cache
 E:\Kharyat\obj\Debug\net10.0\ref\Kharyat.dll
+E:\Kharyat\obj\Debug\net10.0\Kharyat.sourcelink.json
