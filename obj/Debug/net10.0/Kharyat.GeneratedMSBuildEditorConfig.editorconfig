@@ -27,6 +27,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Kharyat/Pages/Games.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Kharyat/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,25 @@
+@page
+@{
+    ViewData["Title"] = "VideoGames";
+
+    string[]? games = new[]
+    {
+        "Hollow Knight",
+        "Minecraft",
+        "The Witcher 3",
+        "Elden Ring",
+        "League of Legends", 
+        "Valorant"
+    };
+}
+
+<h1>VideoGames Catalog</h1>
+
+<p>These are the videogames available:</p>
+
+<ul>
+    @foreach (var game in games)
+    {
+        <li>@game</li>
+    }
+</ul>
